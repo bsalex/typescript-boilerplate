@@ -1,0 +1,10 @@
+.some-component {
+    background-color: #EEE;
+    padding: 20px;
+}
+
+.some-component__button {
+    padding: 15px;
+    margin: 15px;
+    display: block;
+}

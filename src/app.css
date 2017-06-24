@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+.app__header {
+    margin: 20px;
+}
+
+.component {
+    padding: 20px;
+    margin: 20px;
+}
+
+.component__header {
+    font-size: 1.5em;
+}
