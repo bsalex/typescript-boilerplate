@@ -15,7 +15,7 @@
         "webpack-dev-server": "^2.5.0"
     },
     "scripts": {
-        "dev": "webpack-dev-server --host 0.0.0.0 --config ./build/webpack.config.dev.js --watch --progress --hot --inline",
-        "build": "webpack --config ./build/webpack.config.dev.js"
+        "dev": "webpack-dev-server --host 0.0.0.0 --config \"./build/webpack.config.dev.js\" --watch --progress --hot --inline",
+        "build": "webpack --config \"./build/webpack.config.dev.js\""
     }
 }
